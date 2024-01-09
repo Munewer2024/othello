@@ -11,14 +11,14 @@ import java.util.ArrayList;
 /**
  * Test player
  */
-public class TestPlayer extends Player {
+public class Kiar extends Player {
 
   /**
    * Constructor
    * @param name Player's name
    * @param color Player color: one of Constants.BLACK or Constants.WHITE
    */
-  public TestPlayer(int color) {
+  public Kiar(int color) {
     super(color);
   }
 
